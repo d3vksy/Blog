@@ -1,6 +1,6 @@
 ---
 title: 기초 자료구조(3) - 큐(Que)
-published: 2025-04-03
+published: 2025-04-04
 description: 'PS에 꼭 필요한 자료구조인 큐에 대해서 알아보자'
 image: ''
 tags: ['PS', '자료구조', 'Python']
