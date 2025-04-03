@@ -2,8 +2,8 @@
 title: '기초 자료구조(1) - 배열'
 published: 2025-04-03
 description: '배열에 대해'
-tags: ['PS', '알고리즘', 'Python']
-category: '알고리즘'
+tags: ['PS', '자료구조', 'Python']
+category: '자료구조'
 draft: false 
 lang: 'ko'
 --- 
